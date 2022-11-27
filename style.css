@@ -1,0 +1,15 @@
+.loader{
+  border: 10px solid #DDDDDD;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border-top: 10px solid dodgerblue;
+  
+  animation: loader .5s linear infinite; 
+}
+
+@keyframes loader{
+  100%{
+    transform: rotate(360deg)
+  }
+}
