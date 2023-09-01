@@ -135,6 +135,7 @@ html{
 .about__p{
   font-size: 1rem;
   margin-bottom: 10px;
+  color: #5C5C5C;
 }
 /* about-us end */
 
@@ -169,6 +170,7 @@ html{
   padding: 10px;
   font-size: .8rem;
   font-weight: bold;
+  color: #5C5C5C;
 }
 /* food-menu end */
 
@@ -217,7 +219,7 @@ html{
 }
 .footer__cap{
   text-align: center;
-  font-size: 1rem;
+  font-size: .8rem;
 }
 .footer__cap span{
   color: #6A77FF;
